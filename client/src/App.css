@@ -1,0 +1,49 @@
+body {
+  margin:10px 20px;
+  font-size: 16px;
+  color: #515151;
+}
+
+.employee-container {
+  margin-top: 20px;
+}
+
+.detail-container {
+  margin-bottom: 15px;
+}
+
+#addPayeeForm {
+  padding: 30px;
+  color:  #515151;
+}
+
+.form-field-container {
+  margin-top: 30px;
+}
+
+.form-label-container {
+  text-align: left;
+  padding-top: 5px;
+  /* Small devices (tablets, 768px and up) */
+}
+
+.form-input-container input{
+  width: 100%;
+}
+.form-buttons-col{
+  margin:auto;
+}
+
+.form-buttons-col Button{
+  margin:0px 10px;
+}
+
+label {
+  font-size: 20px;
+  color: #515151;
+}
+input {
+  font-size: 20px !important;
+  padding:5px 10px;
+  color: #515151;
+}
